@@ -1,0 +1,75 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}{Evoluzione del sistema e flusso di fase}}{4}{section.1}%
+\contentsline {section}{\numberline {2}{Sistemi 1-D}}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}{Rotatore}}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}{Oscillatore armonico}}{11}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}{Oscillatore iperbolico}}{12}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}{Oscillatore con frequenza modulata con approccio perturbativo}}{13}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}{Analisi del pendolo}}{14}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}{Soluzione generale e potenizali quartici}}{14}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}{Variabili azione-angolo per l'oscillatore armonico}}{15}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}{Approssimare le soluzioni del pendolo: un approccio perturbativo}}{16}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}{Divergenza del periodo alla separatrice}}{17}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}{Pendolo forzato}}{19}{subsubsection.2.5.5}%
+\contentsline {subsection}{\numberline {2.6}{Risonanza parametrica e il problema dell'altalena}}{20}{subsection.2.6}%
+\contentsline {section}{\numberline {3}{Formulazione Lagrangiana: vincoli e coordinate generalizzate}}{23}{section.3}%
+\contentsline {subsection}{\numberline {3.1}{Passare alle coordinate generalizzate}}{24}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}{Il principio di D'Alembert}}{26}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}{Ottenere la reazione vincolare}}{30}{subsection.3.3}%
+\contentsline {section}{\numberline {4}{Formulazione Lagrangiana: il principio di minima azione}}{31}{section.4}%
+\contentsline {subsection}{\numberline {4.1}{Principi variazionali eq equazione di Eulero-Lagrange}}{31}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}{Le proprietà della lagrangiana della particella libera}}{33}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}{Energia e lagrangiana}}{37}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}{L'interazione fra particelle: potenziali e potenziali generalizzati}}{37}{subsection.4.4}%
+\contentsline {section}{\numberline {5}{Il teorema di N\"{o}ther}}{47}{section.5}%
+\contentsline {section}{\numberline {6}{Problema dei due corpi}}{51}{section.6}%
+\contentsline {subsection}{\numberline {6.1}{Cadere nel centro del campo}}{53}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}{Interpretazione geometrica}}{54}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}{Il teorema di Bertrand}}{55}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}{Orbite ad energia tendente al minimo}}{56}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}{Orbite ad energia tendente a zero}}{58}{subsubsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.4}{Il potenziale di Keplero}}{60}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}{Le tre leggi di Keplero}}{62}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}{Il potenziale elastico}}{63}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}{Il potenziale logaritmico}}{65}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}{Sezione d'urto}}{67}{subsection.6.8}%
+\contentsline {section}{\numberline {7}{Piccole oscillazioni}}{70}{section.7}%
+\contentsline {subsection}{\numberline {7.1}{Piccole oscillazioni con potenziali generalizzati}}{72}{subsection.7.1}%
+\contentsline {section}{\numberline {8}{Dinamica e geometria}}{75}{section.8}%
+\contentsline {subsection}{\numberline {8.1}{Il problema delle geodetiche}}{75}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}{Interpretazione dinamica}}{76}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}{Interpretazione geometrica}}{77}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}{equivalenza degli aprocci}}{78}{subsubsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.2}{La catenaria}}{78}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}{La metrica di Poincarè}}{81}{subsection.8.3}%
+\contentsline {section}{\numberline {9}{Il principio di Maupertuis}}{84}{section.9}%
+\contentsline {subsection}{\numberline {9.1}{Il problema di Keplero con il principio di Maupertuis}}{86}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}{Particella relativistica}}{87}{subsection.9.2}%
+\contentsline {section}{\numberline {10}{Formulazione Hamiltoniana}}{89}{section.10}%
+\contentsline {subsection}{\numberline {10.1}{Equazioni canoniche del moto}}{89}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}{Formulazione variazionale}}{91}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}{Trasformazioni canoniche}}{92}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}{Principio variazionale e forme differenziali}}{96}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}{Equazione di Hamilton-Jacobi: trasformazioni canoniche dipendenti dal tempo}}{98}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}{Variabili azione angolo generalizzate}}{99}{subsection.10.6}%
+\contentsline {section}{\numberline {11}{Corpi rigidi}}{101}{section.11}%
+\contentsline {subsection}{\numberline {11.1}{Scegliere le coordinate}}{101}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}{Energia cinetica e tensore d'inerzia}}{103}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}{Equazioni del moto del corpo rigido libero con punto fisso}}{107}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}{Trottola asimmetrica}}{108}{subsection.11.4}%
+\contentsline {subsection}{\numberline {11.5}{Trottola simmetrica}}{109}{subsection.11.5}%
+\contentsline {subsection}{\numberline {11.6}{Visualizzare il moto di un corpo rigido: la costruzione di Poinsot}}{110}{subsection.11.6}%
+\contentsline {subsection}{\numberline {11.7}{Trottola simmetrica con forza peso}}{111}{subsection.11.7}%
+\contentsline {section}{\numberline {A}{Sistemi 1-D}}{117}{appendix.Alph1}%
+\contentsline {subsection}{\numberline {A.1}{Soluzioni di equazioni differenziali utili}}{117}{subsection.Alph1.1}%
+\contentsline {section}{\numberline {B}{Formulazione Lagrangiana: il principio di minima azione}}{118}{appendix.Alph2}%
+\contentsline {subsection}{\numberline {B.1}{Trasformazioni infinitesime e velocità angolare}}{118}{subsection.Alph2.1}%
+\contentsline {section}{\numberline {C}{Piccole oscillazioni}}{119}{appendix.Alph3}%
+\contentsline {subsection}{\numberline {C.1}{Problema agli autovalori generalizzato}}{119}{subsection.Alph3.1}%
+\contentsline {section}{\numberline {D}{Formulazione hamiltoniana}}{120}{appendix.Alph4}%
+\contentsline {subsection}{\numberline {D.1}{Invertibilità della definizione di momento associato}}{120}{subsection.Alph4.1}%
+\contentsline {subsection}{\numberline {D.2}{Caratterizzazione delle trasformazioni canoniche}}{121}{subsection.Alph4.2}%
+\contentsline {section}{\numberline {E}{Corpi rigidi}}{122}{appendix.Alph5}%
+\contentsline {subsection}{\numberline {E.1}{Teorema di Eulero}}{122}{subsection.Alph5.1}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
